@@ -4,7 +4,7 @@
  GST rate must not be 18%.
  Current Reconciliation Process
  
- ### Provided as CSV files:
+ ### Provided as CSV files
  Booking Data (CSV)
  Invoice Data (CSV)
  
